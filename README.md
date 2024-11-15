@@ -5,7 +5,7 @@ This repository contains the source code for a simple static website, which is d
 ## Live Links
 
 - **GitHub Pages**: [here](https://riteshzode.github.io/staticwebsite.github.io/)
-- **AWS S3**: [here](https://your-s3-bucket-url.amazonaws.com/)
+- **AWS S3**: [here](http://staticwebsitelive.s3-website-us-east-1.amazonaws.com/)
 
 ## Features
 
